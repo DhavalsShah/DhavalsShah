@@ -45,7 +45,6 @@ Currently, I partner with founders and startups to audit codebases, stabilize AI
 
 If you are looking to secure your mobile application, integrate advanced AI workflows, or need a senior technical partner for your next sprint, let's talk.
 
-*   **LinkedIn:**
   <p align="center">
   <a href="https://www.linkedin.com/in/dhavalshah1993">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
